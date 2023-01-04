@@ -1,0 +1,10 @@
+{
+    "name": "FTI WDSL",
+    "domain": "fti_ws",
+    "version": "0.0.1",
+    "author": "Your Name",
+    "url": "https://github.com/your-repo/fti_ws",
+    "description": "Custom HACS component for fetching data from the FTI WDSL.",
+    "requirements": ["zeep"]
+  }
+  
